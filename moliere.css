@@ -24,11 +24,11 @@
 }
 .DANCEMASTER
 {
-    color: rgb(196, 22, 182);
+    color: rgb(22, 25, 196);
 }
 .PUPIL
 {
-    color: rgb(26, 159, 199);
+    color: rgb(199, 81, 26);
 }
 .name:hover {
     border: 1px solid #7d4cd8;
@@ -66,7 +66,7 @@ tr {
     border:3px rgb(184, 199, 247);
     box-shadow:2px 2px rgb(1, 44, 19);
 }
-.DANCEMASTER:hover{
+.DANCINGMASTER:hover{
     filter:blur(1px);
     border:3px rgb(172, 231, 160);
     box-shadow:2px 2px rgb(47, 2, 88);  
