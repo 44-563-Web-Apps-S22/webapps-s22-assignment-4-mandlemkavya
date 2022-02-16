@@ -18,12 +18,16 @@
     background-color: rgb(10, 136, 240);
     color: rgb(174, 245, 10);
 }
-.Orgon
+.Music Master
 {
     color: rgb(26, 159, 199);
 }
-.Mariane{
+.Dance Master{
     color: rgb(196, 22, 182);
+}
+.Pupil
+{
+    color: rgb(26, 159, 199);
 }
 .name:hover {
     border: 1px solid #7d4cd8;
@@ -56,16 +60,21 @@ td{
 tr {
     background-color:rgb(51, 146, 235) ;
 }
-.Orgon:hover {
+.Music Master:hover {
     filter:blur(1px);
     border:3px rgb(184, 199, 247);
     box-shadow:2px 2px rgb(1, 44, 19);
 }
-.Mariane:hover{
+.Dance Master:hover{
     filter:blur(1px);
     border:3px rgb(172, 231, 160);
     box-shadow:2px 2px rgb(47, 2, 88);  
     color: transparent;
+}
+.Pupil:hover {
+    filter:blur(1px);
+    border:3px rgb(184, 199, 247);
+    box-shadow:2px 2px rgb(1, 44, 19);
 }
 ul.navbar-horizontal {
     /* remove these */
